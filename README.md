@@ -1,8 +1,8 @@
-# Examples
+# Statics Examples
 
 ## Getting Started
 
-Follow these steps to set up and run a basic website login with Statics:
+Follow these steps to set up and run a basic website login with Statics using the typescript SDK and React frontend component.
 
 1. Backend Setup
    - Navigate to the backend directory
